@@ -1,3 +1,7 @@
+/*
+Плотоядные жители аквариума
+ */
+
 package FishAndCancer;
 
 public abstract class Carnivorous extends FishAndMarineArthropods {
