@@ -1,3 +1,7 @@
+/*
+Свет в аквариуме
+ */
+
 package FishAndCancer;
 
 public class AquariumLighting implements Lightable {
