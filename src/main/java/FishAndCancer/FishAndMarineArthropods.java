@@ -1,3 +1,7 @@
+/*
+Абстрактный методы и класс.
+ */
+
 package FishAndCancer;
 
 public abstract class FishAndMarineArthropods implements Lightable {
