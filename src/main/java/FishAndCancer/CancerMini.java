@@ -1,3 +1,7 @@
+/*
+Мексиканский карликовый рак
+ */
+
 package FishAndCancer;
 
 public class CancerMini extends Carnivorous implements SwimSpeed, Bottomrunning {
