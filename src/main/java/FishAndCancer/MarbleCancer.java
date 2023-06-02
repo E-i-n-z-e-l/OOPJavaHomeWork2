@@ -1,3 +1,7 @@
+/*
+Мраморный рак
+ */
+
 package FishAndCancer;
 
 public class MarbleCancer extends Carnivorous implements SwimSpeed, Bottomrunning {
