@@ -4,13 +4,10 @@
 
 package FishAndCancer;
 
-import FishAndCancer.AngelFish;
-import FishAndCancer.CancerMini;
-import FishAndCancer.GuppyFish;
-import FishAndCancer.MarbleCancer;
-import FishAndCancer.AngelFish;
-import FishAndCancer.CancerMini;
-import FishAndCancer.GuppyFish;
+import FishAndCancer.Fish.AngelFish;
+import FishAndCancer.Fish.CancerMini;
+import FishAndCancer.Fish.GuppyFish;
+import FishAndCancer.Fish.MarbleCancer;
 
 
 public class MainAquarium {

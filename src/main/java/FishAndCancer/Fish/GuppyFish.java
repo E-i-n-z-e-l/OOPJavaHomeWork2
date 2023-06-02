@@ -2,7 +2,11 @@
 Рыбка Гуппи
  */
 
-package FishAndCancer;
+package FishAndCancer.Fish;
+
+import FishAndCancer.Bottomrunning;
+import FishAndCancer.Herbivorous;
+import FishAndCancer.SwimSpeed;
 
 public class GuppyFish extends Herbivorous implements SwimSpeed, Bottomrunning {
 

@@ -2,7 +2,11 @@
 Мексиканский карликовый рак
  */
 
-package FishAndCancer;
+package FishAndCancer.Fish;
+
+import FishAndCancer.Bottomrunning;
+import FishAndCancer.Carnivorous;
+import FishAndCancer.SwimSpeed;
 
 public class CancerMini extends Carnivorous implements SwimSpeed, Bottomrunning {
     public CancerMini(String name) {

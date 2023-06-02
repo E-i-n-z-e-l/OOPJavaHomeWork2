@@ -2,7 +2,11 @@
 Скалярии
  */
 
-package FishAndCancer;
+package FishAndCancer.Fish;
+
+import FishAndCancer.Bottomrunning;
+import FishAndCancer.Carnivorous;
+import FishAndCancer.SwimSpeed;
 
 public class AngelFish extends Carnivorous implements SwimSpeed, Bottomrunning {
 

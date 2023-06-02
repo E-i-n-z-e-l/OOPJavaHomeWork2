@@ -2,7 +2,11 @@
 Мраморный рак
  */
 
-package FishAndCancer;
+package FishAndCancer.Fish;
+
+import FishAndCancer.Bottomrunning;
+import FishAndCancer.Carnivorous;
+import FishAndCancer.SwimSpeed;
 
 public class MarbleCancer extends Carnivorous implements SwimSpeed, Bottomrunning {
     public MarbleCancer(String name) {
