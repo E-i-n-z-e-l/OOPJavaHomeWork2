@@ -1,3 +1,5 @@
+package FishAndCancer;
+
 public abstract class Carnivorous extends FishAndMarineArthropods {
 
     public Carnivorous(String name) {

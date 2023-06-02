@@ -1,8 +1,8 @@
+package FishAndCancer;
 
+public class GuppyFish extends Herbivorous implements SwimSpeed, Bottomrunning {
 
-public class AngelFish extends Carnivorous implements SwimSpeed, Bottomrunning{
-
-    public AngelFish(String name) {
+    public GuppyFish(String name) {
         super(name);
     }
 
@@ -10,19 +10,19 @@ public class AngelFish extends Carnivorous implements SwimSpeed, Bottomrunning{
     public String light() {
         return "";
     }
+
     @Override
     public String sizeFish() {
-        return "До 15 сантиметров в длину";
+        return "1 - 7 сантиметров в длину";
     }
 
     @Override
     public String toString() {
-        return String.format("Скалярия: %s", super.toString());
+        return String.format("Рыбка Гуппи: %s", super.toString());
     }
-
     @Override
     public int getSwimSpeed() {
-        return 15;
+        return 12;
     }
 
     @Override

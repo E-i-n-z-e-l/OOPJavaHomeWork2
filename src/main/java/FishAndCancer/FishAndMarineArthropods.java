@@ -1,4 +1,6 @@
-public abstract class FishAndMarineArthropods implements Lightable{
+package FishAndCancer;
+
+public abstract class FishAndMarineArthropods implements Lightable {
 
     protected String name;
 

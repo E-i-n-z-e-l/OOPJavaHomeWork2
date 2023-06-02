@@ -1,4 +1,6 @@
-public class MarbleCancer extends Carnivorous implements SwimSpeed, Bottomrunning{
+package FishAndCancer;
+
+public class MarbleCancer extends Carnivorous implements SwimSpeed, Bottomrunning {
     public MarbleCancer(String name) {
         super(name);
     }

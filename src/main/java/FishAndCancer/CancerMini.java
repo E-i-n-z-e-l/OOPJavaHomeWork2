@@ -1,4 +1,6 @@
-public class CancerMini extends Carnivorous implements SwimSpeed, Bottomrunning{
+package FishAndCancer;
+
+public class CancerMini extends Carnivorous implements SwimSpeed, Bottomrunning {
     public CancerMini(String name) {
         super(name);
     }
