@@ -1,3 +1,7 @@
+/*
+Файл Main
+ */
+
 package FishAndCancer;
 
 import FishAndCancer.AngelFish;
