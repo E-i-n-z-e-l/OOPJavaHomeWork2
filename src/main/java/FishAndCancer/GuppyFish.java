@@ -1,3 +1,7 @@
+/*
+Рыбка Гуппи
+ */
+
 package FishAndCancer;
 
 public class GuppyFish extends Herbivorous implements SwimSpeed, Bottomrunning {
