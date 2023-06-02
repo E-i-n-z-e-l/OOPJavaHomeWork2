@@ -1,3 +1,7 @@
+/*
+Основные методы - добавление животных в аквариум, свет, скорость бега и плавания
+ */
+
 package FishAndCancer;
 
 import java.util.ArrayList;
