@@ -1,3 +1,7 @@
+/*
+Скалярии
+ */
+
 package FishAndCancer;
 
 public class AngelFish extends Carnivorous implements SwimSpeed, Bottomrunning {
