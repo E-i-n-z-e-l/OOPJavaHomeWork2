@@ -1,3 +1,7 @@
+/*
+Травоядные
+ */
+
 package FishAndCancer;
 
 public abstract class Herbivorous extends FishAndMarineArthropods {
